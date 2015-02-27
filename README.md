@@ -11,4 +11,6 @@ Each paper is posted as its own issue. The issue title is the title of the paper
 
 The body of the issue should have a link to the paper, and a short description of why this paper is relevant.
 
+~~ Please do not upload the actual pdfs ~~
+
 ## [Papers](https://github.com/protocol/reading-group/issues)
